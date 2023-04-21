@@ -1,4 +1,4 @@
-## Salve! Sou o Gabriel Dimitri, mas pode chamar só de Dimitri
+## Oie! Sou o Gabriel Dimitri, mas pode chamar só de Dimitri
 
 - 🌱 Atualmente estudo Ciência de Dados e estou aprofundando em python e machine learning
 - 👯 Estou procurando vagas de emprego, estágio ou jr, para aperfeiçoar habilidades e aprender novas técnicas
