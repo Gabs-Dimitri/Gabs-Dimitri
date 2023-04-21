@@ -1,7 +1,7 @@
 ## Oie! Sou o Gabriel Dimitri, mas pode chamar só de Dimitri
 
 - 🌱 Atualmente estudo Ciência de Dados e estou aprofundando em python e machine learning
-- 👯 Estou procurando vagas de emprego, estágio ou jr, para aperfeiçoar habilidades e aprender novas técnicas
+- 👯 Estou procurando vagas de emprego, estágio ou jr, na área de ciência de dados (analista, ciência) para aperfeiçoar habilidades e aprender novas técnicas
 - 🤔 Ajuda sempre é bem vinda, assim como aprendizado. Qualquer coisa voltada para a área de ciência de dados eu sou todo ouvidos.
 - 📫 E-mail: gdimitrisilva@gmail.com
 - 😄 Pronouns: ele/dele
